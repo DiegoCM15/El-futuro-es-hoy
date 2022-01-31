@@ -1,0 +1,25 @@
+#h2Form{
+    text-align: center;
+}
+
+#Form{
+    background-color:cornflowerblue;
+    text-align: center;
+    height: 600px;
+    width: 500px;
+    position: relative;
+    padding-left: 20px;
+    padding-top: 15px;
+    border-radius: 20px;
+    margin:auto;
+}
+
+#mostCitas{
+    border: 1px;
+}
+
+#tablaMostrar{
+    border: dimgrey;
+    border-radius: 1px;
+    text-align: justify;
+}
